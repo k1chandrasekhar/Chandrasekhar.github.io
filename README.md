@@ -5,7 +5,7 @@ This repository hosts my resume as a static website using GitHub Pages.
 
 ## View My Resume
 
-👉 [**View My Resume**](https://k1chandrasekhar.github.io/Resume/)
+👉 [**View My Resume**](https://k1chandrasekhar.github.io/)
 
 ## About
 
